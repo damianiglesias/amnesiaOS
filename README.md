@@ -1,5 +1,9 @@
 # AmnesiaOS
+<p align="center">
+  <img src="assets/logo.png" alt="AmnesiaOS Logo" width="200"/>
+</p>
 
+<h1 align="center">AmnesiaOS</h1>
 > A minimal Linux operating system that boots entirely into RAM, leaving no trace on shutdown.
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
