@@ -39,9 +39,6 @@ See [docs/build.md](docs/build.md) for full build instructions.
 
 See [docs/architecture.md](docs/architecture.md) for how RAM boot works.
 
-## Roadmap
-
-See [docs/roadmap.md](docs/roadmap.md) for planned features.
 
 ## License
 
