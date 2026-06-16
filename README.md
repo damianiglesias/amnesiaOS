@@ -6,7 +6,7 @@
 
 > A minimal Linux operating system that boots entirely into RAM, leaving no trace on shutdown.
 
-![Version](https://img.shields.io/badge/version-0.1.0-blue)
+![Version](https://img.shields.io/badge/version-0.2.0-blue)
 ![Kernel](https://img.shields.io/badge/kernel-6.16.1-green)
 ![License](https://img.shields.io/badge/license-GPL--3.0-red)
 
